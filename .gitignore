@@ -1,0 +1,23 @@
+# Entorno
+.env
+
+# Archivo config
+/config/config.php
+
+# Dependencias de Composer
+/vendor/
+
+# Logs y cachés
+*.log
+*.cache
+
+# Archivos temporales
+*.tmp
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
