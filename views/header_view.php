@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/fcf216840a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-    <title>Bienes Acapulco</title>
+    <title>Inmuebles Web</title>
     <!-- ========= FAVICON  ========== -->
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
     <!-- ========= STYLES CSS  ========== -->
@@ -35,7 +35,7 @@
             </ul>
         </nav>
 
-        <h1 class="logo"><a href="<?php echo URL_BASE?>">Bienes Acapulco</a></h1>
+        <h1 class="logo"><a href="<?php echo URL_BASE?>">Inmuebles Web</a></h1>
         <!-- ========= FILTER  ========== -->
         <div class="contenedor__filtro container">
             <form action="<?= URL_BASE ?>" class="form__filtro" method="GET">

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/fcf216840a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-    <title>BienesAcapulco</title>
+    <title>Inmuebles Web</title>
     <!-- ========= FAVICON  ========== -->
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
     <!-- ========= STYLES CSS  ========== -->
@@ -18,7 +18,7 @@
     
     <div class="login__container container">
         <div class="login__content">
-            <h2>Bienes Acapulco</h2>
+            <h2>Inmuebles Web</h2>
             <h3>Iniciar sesión</h3>
             <form method="POST" action="?controller=session&action=login">
                 <input type="text" name="usuario" placeholder="Usuario" required>
