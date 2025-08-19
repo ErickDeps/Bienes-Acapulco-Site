@@ -2,7 +2,7 @@
 
 Inmuebles Web es una plataforma web desarrollada en PHP que permite publicar, visualizar y gestionar propiedades inmobiliarias. El proyecto está diseñado para agentes o empresas que desean mostrar y administrar inmuebles en línea, incluyendo imágenes, detalles y sistema de contacto.
 
-Puedes visitar el sitio en el siguiente enlace: https://inmuebles-web.com
+Puedes visitar el sitio en el siguiente enlace: https://bienes-acapulco.com
 
 ## ✨ Características principales
 
